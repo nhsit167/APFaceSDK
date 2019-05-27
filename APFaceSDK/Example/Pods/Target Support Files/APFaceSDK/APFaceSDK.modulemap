@@ -1,0 +1,6 @@
+framework module APFaceSDK {
+  umbrella header "APFaceSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

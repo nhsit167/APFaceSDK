@@ -1,0 +1,23 @@
+{
+  "name": "APFaceSDK",
+  "version": "0.1.0",
+  "summary": "Use SDK for detect face",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hoangsonit1607@gmail.com/APFaceSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hoangsonit1607@gmail.com": "hoangsonit1607@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hoangsonit1607@gmail.com/APFaceSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "APFaceSDK/Classes/**/*"
+}
