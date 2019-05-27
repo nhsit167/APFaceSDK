@@ -9,6 +9,6 @@ import Foundation
 
 public class SonTest:NSObject{
     public func show(_ text:String){
-        print("Xem lai:", text)
+        print("Xem lai1:", text)
     }
 }
